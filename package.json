@@ -1,0 +1,1 @@
+{\n  "name": "jqml4",\n  "version": "1.0.0",\n  "main": "dist/index.js",\n  "scripts": {\n    "build": "tsc",\n    "serve": "node dist/server.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1"\n  },\n  "devDependencies": {\n    "typescript": "^4.4.3"\n  }\n}
