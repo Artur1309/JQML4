@@ -1,11 +1,15 @@
-# Node modules
+# Node
 node_modules/
 
-# Distribution directory
-/dist/
+# Build outputs
+build/
+dist/
 
-# Common TS build artifacts
+# TypeScript
 *.tsbuildinfo
-*.d.ts
-*.js
-*.js.map
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
