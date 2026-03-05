@@ -1,9 +1,1 @@
-{
-  "compilerOptions": {
-    "target": "ES2020",
-    "module": "CommonJS",
-    "strict": true,
-    "esModuleInterop": true,
-    "skipLibCheck": true
-  }
-}
+{\n  "compilerOptions": {\n    "target": "ES2020",\n    "module": "CommonJS",\n    "rootDir": "src",\n    "outDir": "build"\n  }\n}
