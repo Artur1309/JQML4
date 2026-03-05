@@ -1,0 +1,19 @@
+{
+  "name": "jqml4",
+  "version": "0.1.0",
+  "description": "Transpile a minimal subset of QML into a Canvas-based web app",
+  "engines": {
+    "node": ">=20"
+  },
+  "main": "build/index.js",
+  "bin": {
+    "jqml4": "./build/index.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.35",
+    "typescript": "^5.4.5"
+  }
+}
