@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Distribution directory
+/dist/
+
+# Common TS build artifacts
+*.tsbuildinfo
+*.d.ts
+*.js
+*.js.map
